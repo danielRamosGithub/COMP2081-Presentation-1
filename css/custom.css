@@ -1,0 +1,13 @@
+/* Custom CSS from Presentation 1 
+*  Author: Daniel Costa Ramos
+*/
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+div.video {
+    width: 80%;
+    margin: 0 auto;
+}
